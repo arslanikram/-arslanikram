@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Arsalan</h1>
-<h3 align="center">Senior PHP Backend Developer | Laravel | Node.js | AWS | IoT</h3>
+
+<h3 align="center">Senior Software Engineer | PHP | Laravel | Node.js | AWS | AI</h3>
 
 <p align="center">
   🚀 Building scalable backend systems & cloud solutions  
@@ -59,10 +60,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arslanikram&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arslanikram&theme=tokyonight" />
 </p>
 
@@ -71,9 +68,10 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="linkedin.com/in/arslan-ikram-arain" target="blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+<a href="https://linkedin.com/in/arslan-ikram-arain" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
+
 </p>
 
 📍 Lahore, Pakistan  
