@@ -10,7 +10,7 @@
 ## 🧠 About Me
 
 - 💼 Senior Software Engineer at **PixelEdge**
-- 🔧 6+ years of experience in backend development
+- 🔧 7+ years of experience in backend development
 - ⚙️ Specialized in **Laravel, CodeIgniter, Node.js**
 - ☁️ Working with **AWS Lambda & Serverless Architecture**
 - 📡 Strong background in **IoT-based systems**
@@ -59,7 +59,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arslanikram&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arslanikram&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -71,13 +71,13 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/" target="blank">
+<a href="linkedin.com/in/arslan-ikram-arain" target="blank">
 <img align="center" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 </p>
 
 📍 Lahore, Pakistan  
-📧 (add your email if you want recruiters to reach you)
+📧 arslanikramarain@gmail.com
 
 ---
 
